@@ -345,6 +345,7 @@ header ul {
 
 #ruimte {
   margin-top: 16px;
+  border-bottom: 4px rgb(255, 228, 225) solid;
 }
 
 .sidebar-text h3 {
@@ -417,6 +418,7 @@ margin-bottom: 32px;
 
   #ruimte {
   margin-top: 0px;
+  border-bottom: 0px rgb(255, 228, 225) solid;
   }
 
   .sidebar-text a {
